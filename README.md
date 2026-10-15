@@ -7,26 +7,26 @@ Fully automated and offline manga translation pipeline. Intelligently detects sp
 ### Example 1: Complete Pipeline
 | Original | Detection | Cleaned | Translated |
 |----------|-----------|---------|------------|
-| ![Original](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/motl_raw.png) | ![Detection](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/motl_speech_bubbles.png) | ![Cleaned](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/motl_cleaned.png) | ![Translated](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/motl_translated.png) |
+| ![Original](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/motl_raw.png) | ![Detection](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/motl_speech_bubbles.png) | ![Cleaned](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/motl_cleaned.png) | ![Translated](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/motl_translated.png) |
 
 *Source: Magus of the Library*
 
 ### Example 2: Translation Result
 | Original | Translated |
 |----------|------------|
-| ![Original](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/wha_raw.jpg) | ![Translated](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/wha_translated.png) |
+| ![Original](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/wha_raw.jpg) | ![Translated](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/wha_translated.png) |
 
 *Source: Witch Hat Atelier*
 
 | Original | Translated |
 |----------|------------|
-| ![Original](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/ajin_raw.jpg) | ![Translated](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/ajin_translated.png) |
+| ![Original](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/ajin_raw.jpg) | ![Translated](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/ajin_translated.png) |
 
 *Source: Ajin: Demi-Human*
 
 | Original | Translated |
 |----------|------------|
-| ![Original](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/frieren_raw.jpg) | ![Translated](https://raw.githubusercontent.com/zanbowie138/manga-translator-cli/main/docs/frieren_translated.png) |
+| ![Original](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/frieren_raw.jpg) | ![Translated](https://raw.githubusercontent.com/zbu1/manga-translator-cli/main/docs/frieren_translated.png) |
 
 *Source: Frieren: Beyond Journey's End*
 
@@ -119,7 +119,7 @@ For development or to use the latest unreleased changes.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zanbowie138/manga-translator-cli.git
+git clone https://github.com/zbu1/manga-translator-cli.git
 cd manga-translator-cli
 ```
 
@@ -268,7 +268,7 @@ output/
 - Bubble detection can sometimes break on compound bubbles, causing them to not be processed properly.
 - Translation on text outside of bubbles is not currently supported
 
-Please [open an issue](https://github.com/zanbowie138/manga-translator-cli/issues) if you encounter problems.
+Please [open an issue](https://github.com/zbu1/manga-translator-cli/issues) if you encounter problems.
 
 ## Contributing
 
